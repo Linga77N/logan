@@ -1,7 +1,5 @@
-# logan
-linga
-rathish  
-sujitha
-abcdefg
-ylkblj
-kjhgf
+mark=input("enter the mark")
+if(mark>35):
+  print("pass")
+else:
+  print("fail")
